@@ -19,7 +19,8 @@
 * 将三维坐标转换到屏幕坐标并绘制
 
 📷 运行效果：
-（此处插入 GIF）
+![必做](https://github.com/user-attachments/assets/45c867eb-bec5-426b-800c-59e594096df3)
+
 
 ---
 
@@ -32,7 +33,8 @@
 * 实现具有透视效果的三维动态旋转
 
 📷 运行效果：
-（此处插入 GIF）
+![选做](https://github.com/user-attachments/assets/6883e7e8-d0c9-446c-abbe-2f145eda0d1c)
+
 
 ---
 
