@@ -148,4 +148,3 @@ I_specular = Ks * max(0, N · H)^n
 
 ---
 
-# 🧩 项目结构
