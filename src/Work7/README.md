@@ -45,7 +45,12 @@ python run_lbs_lab.py --model-dir ./models --out-dir ./outputs --joint-id 18
 | `all_joint_weights.png` | 全关节主导权重分布图 |
 | `summary.txt` | 模型信息 + 手写 LBS 与官方误差 |
 
-src/Work7/outputs/all_joint_weights.png src/Work7/outputs/comparison_grid.png src/Work7/outputs/stage_a_template_weights.png src/Work7/outputs/stage_b_shaped_joints.png src/Work7/outputs/stage_c_pose_offsets.png src/Work7/outputs/stage_d_lbs_result.png
+![alt text](all_joint_weights.png)
+![alt text](comparison_grid.png)
+![alt text](stage_a_template_weights.png)
+![alt text](stage_b_shaped_joints.png)
+![alt text](stage_c_pose_offsets.png)
+![alt text](stage_d_lbs_result.png)
 ---
 
 ## 选做部分：姿态动画
