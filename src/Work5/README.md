@@ -1,3 +1,5 @@
+202411081067 刘原江 2024级计算机科学与技术
+
 基于 PyTorch3D 的可微渲染与 Mesh 优化实验。
 
 本实验通过 Soft Rasterization 与 Mesh Regularization，实现从初始球体到目标奶牛模型的三维形状优化，并进一步尝试联合纹理优化（选做部分）。
